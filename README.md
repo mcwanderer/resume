@@ -3,9 +3,9 @@ resume
 
 My resume
 
-欢迎访问我的简历
+<h2>欢迎访问我的简历</h2>
 
-<b>编程技术</b>
+<h3>编程技术</h3><br>
 1、会编程，熟练使用ASP.NET(C#)、PHP<br>
 2、会前端，DIV+CSS，熟悉W3C标准，会使用常用前端框架
 　  例如bootstrap，会使用jquery框架。熟练使用Dreamweaver
@@ -17,6 +17,6 @@ My resume
 7、熟悉在IIS、Nginx、Apache在Linux或Windows平台配置<br>
 8、近期在学习Python技术<br>
 <br><br>
-互联网运营技术<br><br>
+<h3>互联网运营技术</h3><br>
 1、熟悉SEO规则，懂得SEO优化方法，参加过SEOWHY培训。<br>
 2、熟悉CPS、关键字、淘宝客推广。
